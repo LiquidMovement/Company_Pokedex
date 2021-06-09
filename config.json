@@ -1,0 +1,85 @@
+{
+	"Pokedex": {
+		"BackColor": "black",
+		"ForeColor": "white",
+		"Name": "Pokedex",
+		"Path": "Default",
+		"MenuBar": {
+			"BackColor": "black",
+			"ForeColor": "gray",
+			"FileMenuDrop": {
+				"BackColor": "black",
+				"ForeColor": "white"
+			},
+			"EditMenuDrop": {
+				"BackColor": "black",
+				"ForeColor": "white"
+			},
+			"ToolsMenuDrop": {
+				"BackColor": "black",
+				"ForeColor": "white"
+			}
+		},
+		"ListBox": {
+			"BackColor": "black",
+			"ForeColor": "orange",
+			"FontSize": "9",
+			"TypeBold": "Regular"
+		},
+		"TreeView": {
+			"BackColor": "black",
+			"ForeColor": "green",
+			"LineColor": "white",
+			"FontSize": "9",
+			"TypeBold": "Bold"
+		},
+		"InfoView": {
+			"BackColor": "black",
+			"ForeColor": "white",
+			"FontSize": "8.5",
+			"TypeBold": "Italic"
+		},
+		"SearchBox": {
+			"BackColor": "black",
+			"ForeColor": "white",
+			"Buttons": {
+				"Search": {
+					"BackColor": "lightgray",
+					"ForeColor": "black"
+				},
+				"Expand": {
+					"BackColor": "lightgray",
+					"ForeColor": "black"
+				},
+				"Collapse": {
+					"BackColor": "lightgray",
+					"ForeColor": "black"
+				},
+				"Clear": {
+					"BackColor": "lightgray",
+					"ForeColor": "black"
+				},
+				"Close": {
+					"BackColor": "lightgray",
+					"ForeColor": "black"
+				}
+			}
+		}
+	},
+	"DataInputForm": {
+		"BackColor": "black",
+		"ForeColor": "white",
+		"GroupBox": {
+			"BackColor": "black",
+			"ForeColor": "white"
+		},
+		"AddBtn": {
+			"BackColor": "lightgray",
+			"ForeColor": "black"
+		},
+		"CloseBtn": {
+			"BackColor": "lightgray",
+			"ForeColor": "black"
+		}
+	}
+}
